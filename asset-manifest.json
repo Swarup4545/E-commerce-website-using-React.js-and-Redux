@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/E-commerce-website-using-React.js-and-Redux/static/css/main.a0b7166e.css",
-    "main.js": "/E-commerce-website-using-React.js-and-Redux/static/js/main.446b9c92.js",
+    "main.js": "/E-commerce-website-using-React.js-and-Redux/static/js/main.19312d24.js",
     "index.html": "/E-commerce-website-using-React.js-and-Redux/index.html",
     "main.a0b7166e.css.map": "/E-commerce-website-using-React.js-and-Redux/static/css/main.a0b7166e.css.map",
-    "main.446b9c92.js.map": "/E-commerce-website-using-React.js-and-Redux/static/js/main.446b9c92.js.map"
+    "main.19312d24.js.map": "/E-commerce-website-using-React.js-and-Redux/static/js/main.19312d24.js.map"
   },
   "entrypoints": [
     "static/css/main.a0b7166e.css",
-    "static/js/main.446b9c92.js"
+    "static/js/main.19312d24.js"
   ]
 }
